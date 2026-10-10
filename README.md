@@ -1,0 +1,2 @@
+# GLOBOCAN2024thyroid
+GLOBOCAN2024thyroid
