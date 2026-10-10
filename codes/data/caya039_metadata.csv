@@ -1,0 +1,239 @@
+pop_code,population,iso3,hdi,hdi_group,area_label,grouping,method_incidence,method_mortality,is_country
+4,Afghanistan,AFG,0.462,1,South Central Asia,Asia,5,3c,1
+8,Albania,ALB,0.789,3,Southern Europe,Europe,2a,3b,1
+12,Algeria,DZA,0.745,3,Northern Africa,Africa,2b,3c,1
+24,Angola,AGO,0.591,2,Middle Africa,Africa,2b,3c,1
+31,Azerbaijan,AZE,0.76,3,Western Asia,Asia,3c,2a,1
+32,Argentina,ARG,0.849,4,South America,Latin America and the Caribbean,3a,1,1
+36,Australia,AUS,0.946,4,Australia/New Zealand,Oceania,1,1,1
+40,Austria,AUT,0.926,4,Western Europe,Europe,1,1,1
+44,Bahamas,BHS,0.82,4,Caribbean,Latin America and the Caribbean,3c,1,1
+48,Bahrain,BHR,0.888,4,Western Asia,Asia,1,3c,1
+50,Bangladesh,BGD,0.67,2,South Central Asia,Asia,5,3c,1
+51,Armenia,ARM,0.786,3,Western Asia,Asia,3c,1,1
+52,Barbados,BRB,0.809,4,Caribbean,Latin America and the Caribbean,2a,1,1
+56,Belgium,BEL,0.942,4,Western Europe,Europe,1,1,1
+64,Bhutan,BTN,0.681,2,South Central Asia,Asia,2a,3c,1
+68,Bolivia,BOL,0.698,2,South America,Latin America and the Caribbean,3c,4,1
+70,Bosnia Herzegovina,BIH,0.779,3,Southern Europe,Europe,3a,1,1
+72,Botswana,BWA,0.708,3,Southern Africa,Africa,4,3c,1
+76,Brazil,BRA,0.76,3,South America,Latin America and the Caribbean,3a,1,1
+84,Belize,BLZ,0.7,3,Central America,Latin America and the Caribbean,3c,1,1
+90,Solomon Islands,SLB,0.562,2,Melanesia,Oceania,5,3c,1
+96,Brunei Darussalam,BRN,0.823,4,South-Eastern Asia,Asia,1,3c,1
+100,Bulgaria,BGR,0.799,3,Eastern Europe,Europe,1,1,1
+104,Myanmar,MMR,0.608,2,South-Eastern Asia,Asia,2b,3c,1
+108,Burundi,BDI,0.42,1,Eastern Africa,Africa,5,3c,1
+112,Belarus,BLR,0.801,4,Eastern Europe,Europe,1,2a,1
+116,Cambodia,KHM,0.6,2,South-Eastern Asia,Asia,5,3c,1
+120,Cameroon,CMR,0.587,2,Middle Africa,Africa,4,3c,1
+124,Canada,CAN,0.935,4,Northern America,Northern America,1,1,1
+132,Cape Verde,CPV,0.661,2,Western Africa,Africa,2a,3c,1
+140,Central African Rep.,CAF,0.387,1,Middle Africa,Africa,5,3c,1
+144,Sri Lanka,LKA,0.78,3,South Central Asia,Asia,2b,3c,1
+148,Chad,TCD,0.394,1,Middle Africa,Africa,2b,3c,1
+152,Chile,CHL,0.86,4,South America,Latin America and the Caribbean,3c,1,1
+156,China,CHN,0.788,3,Eastern Asia,Asia,2b,2b,1
+170,Colombia,COL,0.758,3,South America,Latin America and the Caribbean,2b,1,1
+174,Comoros,COM,0.586,2,Eastern Africa,Africa,5,3c,1
+178,Congo,COG,0.593,2,Middle Africa,Africa,2b,3c,1
+180,"Congo, Dem. Rep. of",COD,0.481,1,Middle Africa,Africa,5,3c,1
+188,Costa Rica,CRI,0.806,4,Central America,Latin America and the Caribbean,1,1,1
+191,Croatia,HRV,0.878,4,Southern Europe,Europe,1,1,1
+192,Cuba,CUB,0.764,3,Caribbean,Latin America and the Caribbean,3c,1,1
+196,Cyprus,CYP,0.907,4,Southern Europe,Europe,1,1,1
+203,Czechia,CZE,0.895,4,Eastern Europe,Europe,1,1,1
+204,Benin,BEN,0.504,1,Western Africa,Africa,2b,3c,1
+208,Denmark,DNK,0.952,4,Northern Europe,Europe,1,1,1
+214,Dominican Rep.,DOM,0.766,3,Caribbean,Latin America and the Caribbean,3c,4,1
+218,Ecuador,ECU,0.765,3,South America,Latin America and the Caribbean,3c,1,1
+222,El Salvador,SLV,0.674,2,Central America,Latin America and the Caribbean,3c,1,1
+226,Equatorial Guinea,GNQ,0.65,2,Middle Africa,Africa,5,3c,1
+231,Ethiopia,ETH,0.492,1,Eastern Africa,Africa,2b,3c,1
+232,Eritrea,ERI,0.493,1,Eastern Africa,Africa,5,3c,1
+233,Estonia,EST,0.899,4,Northern Europe,Europe,1,1,1
+242,Fiji,FJI,0.729,3,Melanesia,Oceania,3b,1,1
+246,Finland,FIN,0.942,4,Northern Europe,Europe,1,1,1
+250,France,FRA,0.91,4,Western Europe,Europe,3a,1,1
+254,Fr. Guyana,GUF,,,South America,Latin America and the Caribbean,3c,1,1
+258,Fr. Polynesia,PYF,,,Polynesia,Oceania,1,3b,1
+262,Djibouti,DJI,0.515,1,Eastern Africa,Africa,5,3c,1
+266,Gabon,GAB,0.693,2,Middle Africa,Africa,2b,3c,1
+268,Georgia,GEO,0.814,4,Western Asia,Asia,3c,1,1
+270,The Gambia,GMB,0.495,1,Western Africa,Africa,4,3c,1
+275,State of Palestine,PSE,0.716,3,Western Asia,Asia,5,3c,1
+276,Germany,DEU,0.95,4,Western Europe,Europe,1,1,1
+288,Ghana,GHA,0.602,2,Western Africa,Africa,4,3c,1
+300,Greece,GRC,0.893,4,Southern Europe,Europe,3b,1,1
+312,Fr. Guadeloupe,GLP,,,Caribbean,Latin America and the Caribbean,1,3c,1
+316,Guam,GUM,,,Micronesia,Oceania,5,3b,1
+320,Guatemala,GTM,0.629,2,Central America,Latin America and the Caribbean,3c,1,1
+324,Guinea,GIN,0.471,1,Western Africa,Africa,2b,3c,1
+328,Guyana,GUY,0.742,3,South America,Latin America and the Caribbean,3c,1,1
+332,Haiti,HTI,0.552,2,Caribbean,Latin America and the Caribbean,3c,4,1
+340,Honduras,HND,0.624,2,Central America,Latin America and the Caribbean,2b,3c,1
+348,Hungary,HUN,0.851,4,Eastern Europe,Europe,3b,1,1
+352,Iceland,ISL,0.959,4,Northern Europe,Europe,1,1,1
+356,India,IND,0.644,2,South Central Asia,Asia,2b,3a,1
+360,Indonesia,IDN,0.713,3,South-Eastern Asia,Asia,4,3c,1
+364,Iran,IRN,0.78,3,South Central Asia,Asia,2a,3c,1
+368,Iraq,IRQ,0.673,2,Western Asia,Asia,2a,3c,1
+372,Ireland,IRL,0.95,4,Northern Europe,Europe,1,1,1
+376,Israel,ISR,0.915,4,Western Asia,Asia,1,1,1
+380,Italy,ITA,0.906,4,Southern Europe,Europe,3a,1,1
+384,Côte d'Ivoire,CIV,0.534,1,Western Africa,Africa,4,3c,1
+388,Jamaica,JAM,0.706,3,Caribbean,Latin America and the Caribbean,3c,1,1
+392,Japan,JPN,0.92,4,Eastern Asia,Asia,1,1,1
+398,Kazakhstan,KAZ,0.802,4,South Central Asia,Asia,3c,1,1
+400,Jordan,JOR,0.736,3,Western Asia,Asia,3c,1,1
+404,Kenya,KEN,0.601,2,Eastern Africa,Africa,2b,3c,1
+408,"Korea, Dem. People. Rep. of",PRK,,,Eastern Asia,Asia,5,3c,1
+410,"Korea, Rep.",KOR,0.929,4,Eastern Asia,Asia,1,1,1
+414,Kuwait,KWT,0.847,4,Western Asia,Asia,2a,3c,1
+417,Kyrgyzstan,KGZ,0.701,3,South Central Asia,Asia,3c,1,1
+418,Lao People's Dem.,LAO,0.62,2,South-Eastern Asia,Asia,5,3c,1
+422,Lebanon,LBN,0.723,3,Western Asia,Asia,2a,3c,1
+426,Lesotho,LSO,0.521,1,Southern Africa,Africa,5,3c,1
+428,Latvia,LVA,0.879,4,Northern Europe,Europe,1,1,1
+430,Liberia,LBR,0.487,1,Western Africa,Africa,5,3c,1
+434,Libya,LBY,0.746,3,Northern Africa,Africa,2b,3c,1
+440,Lithuania,LTU,0.879,4,Northern Europe,Europe,1,1,1
+442,Luxembourg,LUX,0.927,4,Western Europe,Europe,3b,1,1
+450,Madagascar,MDG,0.487,1,Eastern Africa,Africa,5,3c,1
+454,Malawi,MWI,0.508,1,Eastern Africa,Africa,2b,3c,1
+458,Malaysia,MYS,0.807,4,South-Eastern Asia,Asia,2b,3c,1
+462,Maldives,MDV,0.762,3,South Central Asia,Asia,5,3c,1
+466,Mali,MLI,0.41,1,Western Africa,Africa,2b,3c,1
+470,Malta,MLT,0.915,4,Southern Europe,Europe,1,1,1
+474,Fr. Martinique,MTQ,,,Caribbean,Latin America and the Caribbean,1,1,1
+478,Mauritania,MRT,0.54,1,Western Africa,Africa,5,3c,1
+480,Mauritius,MUS,0.796,3,Eastern Africa,Africa,2a,1,1
+484,Mexico,MEX,0.781,3,Central America,Latin America and the Caribbean,3b,1,1
+496,Mongolia,MNG,0.741,3,Eastern Asia,Asia,3c,1,1
+498,Moldova,MDA,0.763,3,Eastern Europe,Europe,3b,1,1
+499,Montenegro,MNE,0.844,4,Southern Europe,Europe,3b,2a,1
+504,Morocco,MAR,0.698,2,Northern Africa,Africa,2b,3c,1
+508,Mozambique,MOZ,0.461,1,Eastern Africa,Africa,2b,3c,1
+512,Oman,OMN,0.819,4,Western Asia,Asia,2a,3c,1
+516,Namibia,NAM,0.61,2,Southern Africa,Africa,2a,3c,1
+524,Nepal,NPL,0.601,2,South Central Asia,Asia,5,3c,1
+528,The Netherlands,NLD,0.946,4,Western Europe,Europe,1,1,1
+531,Curaçao,CUW,,,Caribbean,Latin America and the Caribbean,2a,3c,1
+540,Fr. New Caledonia,NCL,,,Melanesia,Oceania,1,3b,1
+548,Vanuatu,VUT,0.614,2,Melanesia,Oceania,5,3b,1
+554,New Zealand,NZL,0.939,4,Australia/New Zealand,Oceania,1,1,1
+558,Nicaragua,NIC,0.669,2,Central America,Latin America and the Caribbean,3c,1,1
+562,Niger,NER,0.394,1,Western Africa,Africa,4,3c,1
+566,Nigeria,NGA,0.548,1,Western Africa,Africa,4,3c,1
+578,Norway,NOR,0.966,4,Northern Europe,Europe,1,1,1
+586,Pakistan,PAK,0.54,1,South Central Asia,Asia,4,3c,1
+591,Panama,PAN,0.82,4,Central America,Latin America and the Caribbean,3c,1,1
+598,Papua New Guinea,PNG,0.568,2,Melanesia,Oceania,3c,4,1
+600,Paraguay,PRY,0.731,3,South America,Latin America and the Caribbean,3c,1,1
+604,Peru,PER,0.762,3,South America,Latin America and the Caribbean,3a,1,1
+608,Philippines,PHL,0.71,3,South-Eastern Asia,Asia,2b,1,1
+616,Poland,POL,0.881,4,Eastern Europe,Europe,1,1,1
+620,Portugal,PRT,0.874,4,Southern Europe,Europe,3a,1,1
+624,Guinea-Bissau,GNB,0.483,1,Western Africa,Africa,5,3c,1
+626,Timor-Leste,TLS,0.566,2,South-Eastern Asia,Asia,5,3c,1
+630,Puerto Rico,PRI,,,Caribbean,Latin America and the Caribbean,1,3c,1
+634,Qatar,QAT,0.875,4,Western Asia,Asia,2a,3c,1
+638,Fr. La Réunion,REU,,,Eastern Africa,Africa,2a,1,1
+642,Romania,ROU,0.827,4,Eastern Europe,Europe,3b,1,1
+643,Russia,RUS,0.821,4,Eastern Europe,Europe,2b,1,1
+646,Rwanda,RWA,0.548,1,Eastern Africa,Africa,2b,3c,1
+662,Saint Lucia,LCA,0.725,3,Caribbean,Latin America and the Caribbean,3c,1,1
+678,Sao Tome and Principe,STP,0.613,2,Western Africa,Africa,5,3c,1
+682,Saudi Arabia,SAU,0.875,4,Western Asia,Asia,2a,3c,1
+686,Senegal,SEN,0.517,1,Western Africa,Africa,5,3c,1
+688,Serbia,SRB,0.805,4,Southern Europe,Europe,3b,1,1
+694,Sierra Leone,SLE,0.458,1,Western Africa,Africa,5,3c,1
+702,Singapore,SGP,0.949,4,South-Eastern Asia,Asia,3a,1,1
+703,Slovakia,SVK,0.855,4,Eastern Europe,Europe,3a,1,1
+704,Viet Nam,VNM,0.726,3,South-Eastern Asia,Asia,2b,3c,1
+705,Slovenia,SVN,0.926,4,Southern Europe,Europe,1,1,1
+706,Somalia,SOM,0.38,1,Eastern Africa,Africa,5,3c,1
+710,South Africa,ZAF,0.717,3,Southern Africa,Africa,4,1,1
+716,Zimbabwe,ZWE,0.55,2,Eastern Africa,Africa,2b,3c,1
+724,Spain,ESP,0.911,4,Southern Europe,Europe,3a,1,1
+728,South Sudan,SSD,0.381,1,Eastern Africa,Africa,5,3c,1
+729,Sudan,SDN,0.516,1,Northern Africa,Africa,4,3c,1
+740,Suriname,SUR,0.69,2,South America,Latin America and the Caribbean,3c,1,1
+748,Eswatini,SWZ,0.61,2,Southern Africa,Africa,2a,3c,1
+752,Sweden,SWE,0.952,4,Northern Europe,Europe,1,1,1
+756,Switzerland,CHE,0.967,4,Western Europe,Europe,3a,1,1
+760,Syria,SYR,0.557,2,Western Asia,Asia,5,3c,1
+762,Tajikistan,TJK,0.679,2,South Central Asia,Asia,3c,2a,1
+764,Thailand,THA,0.803,4,South-Eastern Asia,Asia,2b,3c,1
+768,Togo,TGO,0.547,1,Western Africa,Africa,5,3c,1
+780,Trinidad and Tobago,TTO,0.814,4,Caribbean,Latin America and the Caribbean,2a,1,1
+784,U.A.E.,ARE,0.937,4,Western Asia,Asia,2a,3c,1
+788,Tunisia,TUN,0.732,3,Northern Africa,Africa,2b,3c,1
+792,Türkiye,TUR,0.855,4,Western Asia,Asia,2b,3a,1
+795,Turkmenistan,TKM,0.744,3,South Central Asia,Asia,3c,1,1
+800,Uganda,UGA,0.55,2,Eastern Africa,Africa,2b,3c,1
+804,Ukraine,UKR,0.734,3,Eastern Europe,Europe,1,1,1
+807,Macedonia,MKD,0.765,3,Southern Europe,Europe,3b,1,1
+818,Egypt,EGY,0.728,3,Northern Africa,Africa,2b,3c,1
+826,UK,GBR,0.94,4,Northern Europe,Europe,1,1,1
+834,Tanzania,TZA,0.532,1,Eastern Africa,Africa,2b,3c,1
+840,USA,USA,0.927,4,Northern America,Northern America,1,1,1
+854,Burkina Faso,BFA,0.438,1,Western Africa,Africa,4,3c,1
+858,Uruguay,URY,0.83,4,South America,Latin America and the Caribbean,1,1,1
+860,Uzbekistan,UZB,0.727,3,South Central Asia,Asia,3c,1,1
+862,Venezuela,VEN,0.699,2,South America,Latin America and the Caribbean,3b,1,1
+882,Samoa,WSM,0.702,3,Polynesia,Oceania,5,3b,1
+887,Yemen,YEM,0.424,1,Western Asia,Asia,5,3c,1
+894,Zambia,ZMB,0.569,2,Eastern Africa,Africa,2b,3c,1
+900,World,,,,World,,,,0
+903,Africa,,,,,Continents,,,0
+904,LAC,,,,,Continents,,,0
+905,N. America,,,,Northern America,Continents,,,0
+906,E. Asia,,,,Eastern Asia,UN Regions,,,0
+908,Europe,,,,,Continents,,,0
+909,Oceania,,,,,Continents,,,0
+910,E. Africa,,,,Eastern Africa,UN Regions,,,0
+911,M. Africa,,,,Middle Africa,UN Regions,,,0
+912,N. Africa,,,,Northern Africa,UN Regions,,,0
+913,S. Africa,,,,Southern Africa,UN Regions,,,0
+914,W. Africa,,,,Western Africa,UN Regions,,,0
+915,Caribbean,,,,Caribbean,UN Regions,,,0
+916,C. America,,,,Central America,UN Regions,,,0
+920,South-E. Asia,,,,South-Eastern Asia,UN Regions,,,0
+921,South C. Asia,,,,South Central Asia,UN Regions,,,0
+922,W. Asia,,,,Western Asia,UN Regions,,,0
+923,Central-E. Europe,,,,Eastern Europe,UN Regions,,,0
+924,N. Europe,,,,Northern Europe,UN Regions,,,0
+925,S. Europe,,,,Southern Europe,UN Regions,,,0
+926,W. Europe,,,,Western Europe,UN Regions,,,0
+927,Australia/N. Zealand,,,,Australia/New Zealand,UN Regions,,,0
+928,Melanesia,,,,Melanesia,UN Regions,,,0
+931,S. America,,,,South America,UN Regions,,,0
+935,Asia,,,,,Continents,,,0
+940,E.U. (27),,,,,Other,,,0
+954,Micronesia,,,,Micronesia,UN Regions,,,0
+957,Polynesia,,,,Polynesia,UN Regions,,,0
+963,S.S.Africa,,,,,Other,,,0
+964,Micronesia/Polynesia,,,,,Other,,,0
+971,S.S.Africa Hub,,,,,GICR hub region,,,0
+972,Caribbean Hub,,,,,GICR hub region,,,0
+973,L. America Hub,,,,,GICR hub region,,,0
+974,"S., E. and South-E. Asia Hub",,,,,GICR hub region,,,0
+975,"N. Africa, C. and W. Asia Hub",,,,,GICR hub region,,,0
+976,P. Islands Hub,,,,,GICR hub region,,,0
+981,Very high HDI,,,,,HDI,,,0
+982,High HDI,,,,,HDI,,,0
+983,Medium HDI,,,,,HDI,,,0
+984,Low HDI,,,,,HDI,,,0
+985,High HDI / China),,,,,HDI,,,0
+986,Medium HDI / India,,,,,HDI,,,0
+987,High income,,,,,World Bank Classification,,,0
+988,Upper middle income,,,,,World Bank Classification,,,0
+989,Low middle income,,,,,World Bank Classification,,,0
+990,Low income,,,,,World Bank Classification,,,0
+991,AFRO,,,,,WHO region,,,0
+992,PAHO,,,,,WHO region,,,0
+993,EMRO,,,,,WHO region,,,0
+994,EURO,,,,,WHO region,,,0
+995,SEARO,,,,,WHO region,,,0
+996,WPRO,,,,,WHO region,,,0

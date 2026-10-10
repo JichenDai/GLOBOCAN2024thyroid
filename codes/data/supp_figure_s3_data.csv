@@ -1,0 +1,57 @@
+hdi_code,hdi_label,type,year,predicted_count_apc0
+984,Low HDI,cases,2024,13464
+984,Low HDI,cases,2025,13891
+984,Low HDI,cases,2030,16247
+984,Low HDI,cases,2035,18963
+984,Low HDI,cases,2040,22059
+984,Low HDI,cases,2045,25538
+984,Low HDI,cases,2050,29391
+984,Low HDI,deaths,2024,2868
+984,Low HDI,deaths,2025,2962
+984,Low HDI,deaths,2030,3484
+984,Low HDI,deaths,2035,4100
+984,Low HDI,deaths,2040,4815
+984,Low HDI,deaths,2045,5630
+984,Low HDI,deaths,2050,6546
+983,Medium HDI,cases,2024,62066
+983,Medium HDI,cases,2025,63479
+983,Medium HDI,cases,2030,70622
+983,Medium HDI,cases,2035,77738
+983,Medium HDI,cases,2040,84645
+983,Medium HDI,cases,2045,91220
+983,Medium HDI,cases,2050,97361
+983,Medium HDI,deaths,2024,9545
+983,Medium HDI,deaths,2025,9840
+983,Medium HDI,deaths,2030,11402
+983,Medium HDI,deaths,2035,13094
+983,Medium HDI,deaths,2040,14887
+983,Medium HDI,deaths,2045,16761
+983,Medium HDI,deaths,2050,18700
+982,High HDI,cases,2024,672432
+982,High HDI,cases,2025,689574
+982,High HDI,cases,2030,706685
+982,High HDI,cases,2035,717245
+982,High HDI,cases,2040,725486
+982,High HDI,cases,2045,725902
+982,High HDI,cases,2050,714072
+982,High HDI,deaths,2024,21693
+982,High HDI,deaths,2025,22202
+982,High HDI,deaths,2030,25449
+982,High HDI,deaths,2035,28828
+982,High HDI,deaths,2040,32067
+982,High HDI,deaths,2045,34979
+982,High HDI,deaths,2050,37418
+981,Very high HDI,cases,2024,210866
+981,Very high HDI,cases,2025,211816
+981,Very high HDI,cases,2030,215917
+981,Very high HDI,cases,2035,218493
+981,Very high HDI,cases,2040,219691
+981,Very high HDI,cases,2045,219748
+981,Very high HDI,cases,2050,219098
+981,Very high HDI,deaths,2024,13944
+981,Very high HDI,deaths,2025,14214
+981,Very high HDI,deaths,2030,15622
+981,Very high HDI,deaths,2035,17129
+981,Very high HDI,deaths,2040,18467
+981,Very high HDI,deaths,2045,19597
+981,Very high HDI,deaths,2050,20508
